@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+    <contextName>ws_eureka</contextName>
+    <include file="${Propertydir}/config/logback/logback-standard.xml" />
+</configuration>

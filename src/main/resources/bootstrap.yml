@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ws_eureka
+  jmx:
+    enabled: false
+
+server:
+  port: ${ENVPORT:80}
